@@ -441,3 +441,10 @@ local Button = Section.NewButton("DEX EXPLORER",function()
     loadstring(game:GetObjects('rbxassetid://2180084478')[1].Source)()
                         end)
 end)
+
+tab.newButton("ChairWare Hub", "universal hub j think btw credits to the owner of this script",function()
+--[[
+	WARNING: Heads up! This script has not been verified by ScriptBlox. Use at your own risk!
+]]
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Milan08Studio/ChairWare/main/main.lua"))()
+end)
