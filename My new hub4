@@ -558,11 +558,3 @@ OrionLib:MakeNotification({
     Time = 5
 })
 end)
-
-tab.newButton("Haxker hub", "this one is universal hub script credits to the owner",function()
---[[
-Join My Discord: https://discord.gg/ZQGMtuPCDg
-]]
-
-loadstring(game:HttpGet('https://raw.githubusercontent.com/FreeRobloxScripts1/Haxker_6666666-Hub/main/loader'))()
-end)
