@@ -566,7 +566,3 @@ Join My Discord: https://discord.gg/ZQGMtuPCDg
 
 loadstring(game:HttpGet('https://raw.githubusercontent.com/FreeRobloxScripts1/Haxker_6666666-Hub/main/loader'))()
 end)
-
-tab.newButton("Orion Library", "i made the script hub but i stole some script most of the walkspeed are mine",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Megat-sys/Orion-Library/refs/heads/main/Orion%20Library?token=GHSAT0AAAAAACYH2L2F7XX4DAXA2YT5KSKMZYCNMBA))()
-end)
