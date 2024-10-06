@@ -1,0 +1,369 @@
+local DrRayLibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/AZYsGithub/DrRay-UI-Library/main/DrRay.lua"))()
+
+local window = DrRayLibrary:Load("Hacks", "Default")
+
+local tab = DrRayLibrary.newTab("Hacks 1", "ImageIdHere")
+
+tab.newButton("Inf yeild", "Click me for inf yeild", function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+end)
+
+tab.newButton("magnet to player", "used unanchored part", function()
+pcall(function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/n0raxd/KAWAII-BLACK-HOLE/refs/heads/main/kawaii-black-hole.lua",true))()
+end)
+end)
+
+tab.newButton("Rochips Universal", "universal script", function()
+if "you wanna use rochips universal" then
+	local z_x,z_z="gzrux646yj/raw/main.ts","https://glot.io/snippets/"
+	local im,lonely,z_c=task.wait,game,loadstring
+	z_c(lonely:HttpGet(z_z..""..z_x))()
+	return ("This will load in about 2 - 30 seconds" or "according to your device and executor")
+end
+end)
+
+tab.newButton("Linhmc Hub", "for build and battle", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Linhmcfake1/Build-and-battle-tp/main/Nokey"))()
+end)
+
+tab.newButton("Haxker", "universal big hub", function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/FreeRobloxScripts1/Haxker_6666666-Hub/main/loader'))()
+end)
+
+tab.newButton("Index hub", "many games no key", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/IndexZHub/Loader/main/Loader"))()
+end)
+
+
+tab.newButton("Lxte cmd", "Op admin",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/lxte/cmd/main/testing-main.lua"))()
+end)
+
+
+local tab = DrRayLibrary.newTab("Hacks 2", "ImageIdHere")
+
+tab.newButton("Nameless admin [1]", "very op admin v1", function()
+-- version (0.2)
+-- new update requested by @Valkorym
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FilteringEnabled/NamelessAdmin/main/Source"))();
+end)
+
+tab.newButton("Nameless admin [2]", "very op admin v2", function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/toyahfur/Nameless-Admin-2.0/main/unfinished-source-code'))()
+end)
+
+tab.newButton("Nameless admin [3]", "very op admin v3", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ltseverydayyou/Nameless-Admin/main/Source"))()
+end)
+
+tab.newButton("ftap blizt", "key is WhoeverMoveFirstIsGay",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BlizTBr/scripts/main/FTAP.lua"))()
+end)
+
+tab.newButton("Juanko Underground", "under gui panel",function()
+-- Underground War 2
+-- UNDER GUI PANEL HUB 
+-- JUANKO MODS YT 
+
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Juanko-Scripts/Roblox-scripts/main/UNDER%20GUI%20PANEL%20HUB"))()
+end)
+
+tab.newButton("byte Hub Mc", "any Roblox Minecraft, the script is open source and draggable",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/screengui/bytehub/main/minerscave.lua",true))()
+end)
+
+tab.newButton("Kevin Gui -Free-", "free version",function()
+loadstring(game:HttpGet("https://pastebin.com/raw/tjWTPEez"))()
+end)
+
+tab.newButton("scripthub v3 keyless", "no need key",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/scripthubekitten/SCRIPTHUBV3/main/SCRIPTHUBV3", true))()
+end)
+
+tab.newButton("mobile keyboard", "used for mobile",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt", true))()
+end)
+
+tab.newButton("Game hub v3", "kinda op universal hub",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GamerScripter/Game-Hub/main/loader"))()
+end)
+
+tab.newButton("Quirky Cmd", "Fe admin only works for some game",function()
+-- QuirkyCMD made by quirky anime boy (smokedoutlocedout on discord)
+-- Discord server with games list, plugins, etc:  https://discord.gg/aG6KdRje3x
+-- Testing game: https://www.roblox.com/games/7593160773
+loadstring(game:HttpGet("https://gist.github.com/someunknowndude/38cecea5be9d75cb743eac8b1eaf6758/raw"))()
+end)
+
+tab.newButton("Simple Shader", "simple Shader no lag but if the game are big you will lag",function()
+--[[Subscribe to Zaptosis on YouTube for more awesome scripts
+
+Also Subscribe to JN HH Gaming on Youtube
+
+â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘
+
+â–ˆâ–ˆâ–ˆâ–€â–€â–€â–ˆâ–ˆâ–ˆâ–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–ˆâ–ˆâ–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–ˆâ–ˆâ–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘
+
+â–ˆâ–€â–‘â–‘â–‘â–ˆâ–ˆâ–ˆâ–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–ˆâ–ˆâ–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘
+
+â–€â–‘â–‘â–‘â–ˆâ–ˆâ–ˆâ–‘â–‘â–„â–ˆâ–€â–ˆâ–ˆâ–„â–‘â–€â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–„â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘â–„â–ˆâ–ˆâ–€â–ˆâ–ˆâ–„â–‘â–„â–ˆâ–ˆâ–€â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘â–„â–ˆâ–ˆâ–€â–ˆâ–ˆâ–ˆ
+
+â–‘â–‘â–‘â–ˆâ–ˆâ–ˆâ–‘â–‘â–ˆâ–ˆâ–‘â–‘â–‘â–ˆâ–ˆâ–‘â–‘â–‘â–ˆâ–ˆâ–‘â–‘â–‘â–€â–ˆâ–ˆâ–‘â–‘â–ˆâ–ˆâ–‘â–‘â–‘â–ˆâ–ˆâ–€â–‘â–‘â–‘â–€â–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘â–‘â–€â–€â–‘â–ˆâ–ˆâ–‘â–‘â–ˆâ–ˆâ–‘â–‘â–‘â–€â–€
+
+â–‘â–‘â–ˆâ–ˆâ–ˆâ–‘â–‘â–‘â–„â–„â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘â–‘â–ˆâ–ˆâ–‘â–‘â–‘â–‘â–ˆâ–ˆâ–‘â–‘â–ˆâ–ˆâ–‘â–‘â–‘â–ˆâ–ˆâ–‘â–‘â–‘â–‘â–‘â–ˆâ–ˆâ–€â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–„â–‘â–ˆâ–ˆâ–‘â–‘â–€â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–„
+
+â–‘â–ˆâ–ˆâ–ˆâ–‘â–‘â–‘â–„â–ˆâ–ˆâ–‘â–‘â–‘â–ˆâ–ˆâ–‘â–‘â–‘â–ˆâ–ˆâ–‘â–‘â–‘â–„â–ˆâ–ˆâ–‘â–‘â–ˆâ–ˆâ–‘â–‘â–‘â–ˆâ–ˆâ–„â–‘â–‘â–‘â–„â–ˆâ–ˆâ–ˆâ–„â–‘â–‘â–‘â–ˆâ–ˆâ–‘â–ˆâ–ˆâ–‘â–‘â–ˆâ–„â–‘â–‘â–‘â–ˆâ–ˆ
+
+â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–€â–ˆâ–ˆâ–„â–‘â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–€â–‘â–‘â–‘â–€â–ˆâ–ˆâ–ˆâ–ˆâ–‘â–€â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–€â–‘â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–€â–ˆâ–ˆâ–ˆâ–ˆâ–„â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–€
+
+â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–ˆâ–ˆâ–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘
+
+â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–„â–ˆâ–ˆâ–ˆâ–ˆâ–„â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘
+
+â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘
+
+]]
+
+local find1 = game.Lighting:FindFirstChildWhichIsA("BloomEffect") if find1 then
+
+game.Lighting:FindFirstChildWhichIsA("BloomEffect"):Destroy()
+
+end
+
+local find2 = game.Lighting:FindFirstChildWhichIsA("SunRaysEffect") if find2 then
+
+game.Lighting:FindFirstChildWhichIsA("SunRaysEffect"):Destroy()
+
+end
+
+local find3 = game.Lighting:FindFirstChildWhichIsA("ColorCorrectionEffect") if find3 then
+
+game.Lighting:FindFirstChildWhichIsA("ColorCorrectionEffect"):Destroy()
+
+end
+
+local find4 = game.Lighting:FindFirstChildWhichIsA("BlurEffect") if find4 then
+
+game.Lighting:FindFirstChildWhichIsA("BlurEffect"):Destroy()
+
+end
+
+local find5 = game.Lighting:FindFirstChildWhichIsA("Sky") if find5 then
+
+game.Lighting:FindFirstChildWhichIsA("Sky"):Destroy()
+
+end
+
+local blem = Instance.new("BloomEffect",game.Lighting)
+
+local sanrey = Instance.new("SunRaysEffect",game.Lighting)
+
+local color = Instance.new("ColorCorrectionEffect",game.Lighting)
+
+local blor = Instance.new("BlurEffect",game.Lighting)
+
+Instance.new("Sky",game.Lighting)
+
+game.Lighting.ExposureCompensation = 0.34
+
+game.Lighting.ShadowSoftness = 1
+
+game.Lighting.EnvironmentDiffuseScale = 0.343
+
+game.Lighting.EnvironmentSpecularScale = 1
+
+game.Lighting.Brightness = 2
+
+game.Lighting.ColorShift_Top = Color3.fromRGB(118,117,108)
+
+game.Lighting.OutdoorAmbient = Color3.fromRGB(141,141,141)
+
+game.Lighting.GeographicLatitude = 100
+
+game.Lighting.Ambient = Color3.fromRGB(112,112,112)
+
+blem.Intensity = 0.5
+
+blem.Size = 22
+
+blem.Threshold = 1.5
+
+sanrey.Intensity = 0.117
+
+sanrey.Spread = 1
+
+blor.Size = 2
+
+color.Contrast = 0.3
+
+color.Saturation = 0.2
+
+color.TintColor = Color3.fromRGB(255,252,224)
+end)
+
+tab.newButton("GhostxHub", "op new update",function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/main/GhostHub'))()
+end)
+
+tab.newButton("Parkour inf exp", "just give you some exp, also if you are lag just rejoin",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/charlesqwc/ParkourLegacyOPPoints/main/Points"))()
+end)
+
+tab.newButton("uni hub", "Pop it trading script",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Nadiehp/Dupe-New/main/New"))()
+end)
+
+tab.newButton("gg hub", "pop it trading script and more",function()
+loadstring(game:HttpGet('https://pastebin.com/raw/dcyuEgyK'))()
+end)
+
+tab.newButton("Sky Hub", " sky hub normal",function()
+--[[
+	WARNING: Heads up! This script has not been verified by ScriptBlox. Use at your own risk!
+]]
+loadstring(game:HttpGet("https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/SkyHub.txt"))()
+end)
+
+tab.newButton("Sky Hub Fe", "sky hub fe universal",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/FE%20Trolling%20GUI.luau"))()
+end)
+
+local tab = DrRayLibrary.newTab("Hacks 3", "ImageIdHere")
+
+tab.newButton("keyless hub", "just some keyless hub🙂",function()
+loadstring(game:HttpGet("https://cdn.discordapp.com/attachments/1267795579736559657/1287157247658561607/obfuscated.lua?ex=66f0861a&is=66ef349a&hm=21b9292ac8bae925321ba3b7775229076f70c0e01579ad6dde6a49b35112212a&"))()
+end)
+
+tab.newButton("anti kill bricks script", "just some anti kill bricks script toggle it Z ",function()
+-- Z to Toggle
+local player = game:GetService("Players").LocalPlayer
+local UIS = game:GetService("UserInputService")
+local myzaza = false
+
+UIS.InputBegan:Connect(function(input, GPE)
+if GPE then return end
+if input.KeyCode == Enum.KeyCode.Z then
+myzaza = not myzaza
+end
+end)
+
+while task.wait() do
+local parts = workspace:GetPartBoundsInRadius(player.Character:WaitForChild("HumanoidRootPart").Position, 10)
+for _, part in ipairs(parts) do
+part.CanTouch = myzaza
+end
+end
+end)
+
+tab.newButton("dot hub", "just some universal op hub",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CF-Trail/random/main/.x.vr.e.hi/loader.lua"))()
+end)
+
+tab.newButton("black king hub", "doors or many more games",function()
+loadstring(game:HttpGet(('https://pastebin.com/raw/R8QMbhzv')))()
+end)
+
+tab.newButton("Walkspeed to 50", "click me for 50 speed!",function()
+game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = 50
+end)
+
+tab.newButton("Walkspeed to 100", "click me for 100 speed!",function()
+game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = 100
+end)
+
+tab.newButton("Universal Script Hub", "universal hub i guess",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Ragoon821/ScriptXHub-v2/main/ScriptXhub%20v2.1-serpent"))()
+end)
+
+tab.newButton("moon hub", "it kinda universal bro",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/voiddscripts/moon/main/script.lua"))()
+end)
+
+tab.newButton("Tbao Hub", "race clicker script",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tbao143/thaibao/main/TbaoHubRaceClicker"))()
+end)
+
+tab.newButton("evade", "pepes hub i steal works for evade",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PepesGH1/stuff/main/evadeloader.lua"))()
+end)
+
+tab.newButton("mspaint", "the goated script doors of all Times",function()
+if not getgenv().ExecutorSupport then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/notpoiu/mspaint/main/executorTest.lua"))()
+end
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/notpoiu/mspaint/main/places/" .. game.GameId .. ".lua"))()
+end)
+
+tab.newButton("dark moon hub", "Spanish version😢 credits to the owner",function()
+--15 Like = English Version 
+-- 30 Like = Spanish Version
+-- 50 like = Free VIP Perm Gamepass!
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Darkmoonxhubscript/Darkmoonx1/main/Script'))()
+end)
+
+tab.newButton("part unanchored", "bring the unanchored part to the players it like my script kawaii Magnet to player",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bac0nHck/Scripts/main/BringFlingPlayers"))("More Scripts: t.me/arceusxscripts")
+end)
+
+tab.newButton("Permanent Shiftlock", "for who dont have shiftlock in game",function()
+loadstring(game:HttpGet('https://pastebin.com/raw/CjNsnSDy'))()
+end)
+
+tab.newButton("infinix dex", "keyless version",function()
+local __function = loadstring(game:HttpGet("https://github.com/Hosvile/DEX-Explorer/releases/latest/download/main.lua", true))
+
+__function(__function)
+end)
+
+local tab = DrRayLibrary.newTab("Hacks 4", "ImageIdHere")
+
+tab.newButton("RayField no key system", "READ THIS BEFORE TALK TO ME! so this is just only bypass Any RayField gui",function()
+loadstring("https://raw.github.com/ImMejor35/cracked/main/rayfieldnokey")()
+end)
+
+tab.newButton("adonis bypasser", "this one is for adonis",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Pixeluted/adoniscries/main/Source.lua",true))()
+end)
+
+tab.newButton("juanko underground war", "this under gui panel i stole",function()
+-- Underground War 2
+-- UNDER GUI PANEL HUB 
+-- JUANKO MODS YT 
+
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Juanko-Scripts/Roblox-scripts/main/UNDER%20GUI%20PANEL%20HUB"))()
+end)
+
+tab.newButton("Ecax Hub", "now this hub is universal i stole",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RScripter/-ECAX-/main/ECAX_V3.lua"))()
+end)
+
+tab.newButton("Tiger Hub v3", "and this too also universal",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/balintTheDevX/Tiger-X-V3/main/Tiger%20X%20V3.5%20Fixed"))()
+end)
+
+tab.newButton("best free blade ball", "no key system need",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TouhouProjects/TouhouProject/main/NewEra.lua"))()
+end)
+
+tab.newButton("Scarlet script", "i stole this pls do not get mad at me",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/scarlet888/scarlet/main/e"))()
+end)
+
+tab.newButton("blade ball 2", "i think this one doesnt have key system i stole",function()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/malicious-dev/RobloxScripting/main/bladeball.lua'),true))()
+end)
+
+tab.newButton("Breaking Blitz", "you use this in break in 2",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RScriptz/RobloxScripts/main/BreakIn2.lua"))()
+end)
+
+local tab = DrRayLibrary.newTab("Hacks 5","ImageIdHere")
+
+tab.newButton("Multi tools", "this is v1 i stole",function()
+loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-MultiTools-V1-14721"))()
+end)
