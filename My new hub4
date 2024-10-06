@@ -367,3 +367,7 @@ local tab = DrRayLibrary.newTab("Hacks 5","ImageIdHere")
 tab.newButton("Multi tools", "this is v1 i stole",function()
 loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-MultiTools-V1-14721"))()
 end)
+
+tab.newButton("Infinix Dex Keyless", "credits to the owner for this keyless dex",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/DEX-Explorer/main/Mobile.lua"))()
+end)
