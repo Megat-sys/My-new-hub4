@@ -448,3 +448,7 @@ tab.newButton("ChairWare Hub", "universal hub j think btw credits to the owner o
 ]]
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Milan08Studio/ChairWare/main/main.lua"))()
 end)
+
+tab.newButton("Tsb Script [1]", "this script is for garou also this give you kills too anyways credits to the owner of this script",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/louismich4el/ItsLouisPlayz-Scripts/main/VOID%20V2%20TSB.lua"))()
+end)
