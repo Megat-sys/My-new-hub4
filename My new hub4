@@ -453,10 +453,40 @@ tab.newButton("Tsb Script [1]", "this script is for garou also this give you kil
 loadstring(game:HttpGet("https://raw.githubusercontent.com/louismich4el/ItsLouisPlayz-Scripts/main/VOID%20V2%20TSB.lua"))()
 end)
 
-tab.newButton("Invisible script", "with mobile keyboard toggle is T",function()
+tab.newButton("Invisible Script", "with mobile keyboard toggle is T",function()
 --// IMPORTANT: You'll be visible while ragdolled/jumping
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Sakupenny/Universal-R6-Invis/refs/heads/main/Main.lua"))()
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt", true))()
+end)
+
+tab.newButton("Under Gui Panel", "",function()
+--// example open source
+
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/TwiRwal/TwiWare/main/uilib.lua"))() -- open source
+
+local Window = Library.CreateLib("Hacks Hub", "Twiware") --// i make my own theme you can use it
+
+local Tab = Window:NewTab("Game 1")
+local Section = Tab:NewSection("Scripts")
+Section:NewButton("Under Gui Panel", "Execute Juanko XP Scripts", function()
+    -- Underground War 2
+-- UNDER GUI PANEL HUB 
+-- JUANKO MODS YT 
+
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Juanko-Scripts/Roblox-scripts/main/UNDER%20GUI%20PANEL%20HUB"))()
+end)
+
+Section:NewButton("Silent Aim", "Execute Silent Aim Scripts", function()
+    getgenv().TargetTeamName = "Red"  -- Initial target team
+getgenv().cooldown = 0  -- Cooldown in seconds between shots
+getgenv().bulletSpeed = 49.5  -- Speed of the bullet in studs/second
+getgenv().minPredictionDistance = 0  -- Minimum distance for prediction in studs
+getgenv().maxPredictionDistance = 10  -- Maximum distance for prediction in studs
+getgenv().lastShotTime = 0  -- Variable to track the last time a shot was fired
+
+loadstring(game:HttpGet("https://pastebin.com/raw/g05mEMLH"))()
+end)
 end)
