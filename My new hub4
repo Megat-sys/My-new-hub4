@@ -8,14 +8,14 @@ tab.newButton("Inf yeild", "Click me for inf yeild", function()
 loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
 end)
 
-tab.newInput("JumpPower", "Enter a value to set JumpPower", function(jump)
-    local humanoid = getHumanoid()
-    humanoid.JumpPower = tonumber(jump) or humanoid.JumpPower
-end)
-
 tab.newInput("WalkSpeed", "Enter a value to set WalkSpeed", function(speed)
     local humanoid = getHumanoid()
     humanoid.WalkSpeed = tonumber(speed) or humanoid.WalkSpeed
+end)
+
+tab.newInput("JumpPower", "Enter a value to set JumpPower", function(jump)
+    local humanoid = getHumanoid()
+    humanoid.JumpPower = tonumber(jump) or humanoid.JumpPower
 end)
 
 tab.newButton("magnet to player", "used unanchored part", function()
