@@ -8,14 +8,15 @@ tab.newButton("Inf yeild", "Click me for inf yeild", function()
 loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
 end)
 
-tab.newInput("WalkSpeed", "Enter a value to set WalkSpeed", function(speed)
-    local humanoid = getHumanoid()
-    humanoid.WalkSpeed = tonumber(speed) or humanoid.WalkSpeed
+tab.newButton("Always Day", "",function()
+while true do
+game.Lighting.ClockTime = 12
+    wait(0.8)
+end
 end)
 
-tab.newInput("JumpPower", "Enter a value to set JumpPower", function(jump)
-    local humanoid = getHumanoid()
-    humanoid.JumpPower = tonumber(jump) or humanoid.JumpPower
+tab.newButton("Become R6", "R6 Animation",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Icalock/Server/refs/heads/main/R6%20anims.lua"))()
 end)
 
 tab.newButton("magnet to player", "used unanchored part", function()
