@@ -2,6 +2,12 @@ local DrRayLibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/
 
 local window = DrRayLibrary:Load("Hacks", "Default")
 
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Thanks for using our gui!",
+    Text = "This Script Will Be Updating Faster",
+    Duration = 0.5
+})
+
 local tab = DrRayLibrary.newTab("Hacks 1", "ImageIdHere")
 
 tab.newButton("Inf yeild", "Click me for inf yeild", function()
@@ -25,6 +31,26 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/n0raxd/KAWAII-BLACK-H
 end)
 end)
 
+tab.newButton("Inf Money", "City Defence Tycoon",function()
+--[[
+    WARNING: Heads up! This script has not been verified by ScriptBlox. Use at your own risk!
+]]
+setclipboard('https://discord.gg/VudXCDCaBN')
+print("copied discord inv to your clipboard made by 4cen2 and kylosilly")
+
+while true do
+    for i = 1, 30 do
+        local args = {
+            [1] = game:GetService("Players").LocalPlayer
+        }
+
+        game:GetService("ReplicatedStorage").Knit.Services.TycoonService.RF.PayIncome:InvokeServer(unpack(args))
+    end
+
+    wait(0.25)
+end
+end)
+
 tab.newButton("Rochips Universal", "universal script", function()
 if "you wanna use rochips universal" then
 	local z_x,z_z="gzrux646yj/raw/main.ts","https://glot.io/snippets/"
@@ -46,11 +72,9 @@ tab.newButton("Index hub", "many games no key", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/IndexZHub/Loader/main/Loader"))()
 end)
 
-
 tab.newButton("Lxte cmd", "Op admin",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/lxte/cmd/main/testing-main.lua"))()
 end)
-
 
 local tab = DrRayLibrary.newTab("Hacks 2", "ImageIdHere")
 
