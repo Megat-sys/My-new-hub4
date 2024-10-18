@@ -5,7 +5,7 @@ local window = DrRayLibrary:Load("Hacks", "Default")
 game:GetService("StarterGui"):SetCore("SendNotification", {
     Title = "Thanks for using our gui!",
     Text = "This Script Will Be Updating Faster",
-    Duration = 0.5
+    Duration = 10
 })
 
 local tab = DrRayLibrary.newTab("Hacks 1", "ImageIdHere")
