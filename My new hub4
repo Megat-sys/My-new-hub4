@@ -14,7 +14,13 @@ tab.newButton("Inf yeild", "Click me for inf yeild", function()
 loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
 end)
 
-tab.newButton("Always Day", "",function()
+tab.newLabel("Game")
+
+tab.newLabel("3008 [2.73]")
+
+tab.newLabel("3008 script still in beta so i will not released it")
+
+tab.newButton("Always Day", "always day script",function()
 while true do
 game.Lighting.ClockTime = 12
     wait(0.8)
@@ -28,7 +34,8 @@ end)
 tab.newButton("magnet to player", "used unanchored part", function()
 pcall(function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/n0raxd/KAWAII-BLACK-HOLE/refs/heads/main/kawaii-black-hole.lua",true))()
-end)
+e
+nd)
 end)
 
 tab.newButton("Universal Hub Loader", "Universal Hub idk if it has key or not sorry bad grammar",function()
