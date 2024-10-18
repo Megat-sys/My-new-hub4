@@ -14,11 +14,33 @@ tab.newButton("Inf yeild", "Click me for inf yeild", function()
 loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
 end)
 
-tab.newLabel("Game")
+tab.newButton("Esp", "This esp script still in beta version",function()
+-- Script to highlight all players
+local Players = game:GetService("Players")
 
-tab.newLabel("3008 [2.73]")
+-- Function to highlight a player
+local function highlightPlayer(player)
+    -- Make sure the character exists and has a HumanoidRootPart
+    player.CharacterAdded:Connect(function(character)
+        character:WaitForChild("HumanoidRootPart")
+        local highlight = Instance.new("Highlight")
+        highlight.Adornee = character
+        highlight.Parent = character
+        highlight.FillColor = Color3.new(1, 0, 0) -- Set the highlight color (red in this case)
+        highlight.OutlineColor = Color3.new(1, 1, 1) -- Set the outline color (white in this case)
+        highlight.OutlineTransparency = 0 -- Outline fully visible
+        highlight.FillTransparency = 0.5 -- Fill transparency (0 fully visible, 1 fully transparent)
+    end)
+end
 
-tab.newLabel("3008 script still in beta so i will not released it")
+-- Highlight all current players and new players joining
+Players.PlayerAdded:Connect(highlightPlayer)
+
+-- Highlight players already in the game
+for _, player in ipairs(Players:GetPlayers()) do
+    highlightPlayer(player)
+end
+end)
 
 tab.newButton("Always Day", "always day script",function()
 while true do
