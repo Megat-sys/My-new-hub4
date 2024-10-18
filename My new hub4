@@ -31,7 +31,27 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/n0raxd/KAWAII-BLACK-H
 end)
 end)
 
-tab.newButton("Inf Money", "City Defence Tycoon",function()
+tab.newButton("Universal Hub Loader", "Universal Hub idk if it has key or not sorry bad grammar",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sinret/rbxscript.com-scripts-reuploads-/main/boronide", true))()
+end)
+
+tab.newButton("Silver Hub", "Silver Hub Keyless version",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KidScripts/Scripts/main/Silver-Hub-Keyless.lua",true))()
+end)
+
+tab.newButton("Rayfield Hub", "Beta Version",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Essinity/Rayfield-Hub/main/Script", true))()
+end)
+
+tab.newButton("RayField no key system", "Rayfield Cracked bypass key",function()
+loadstring("https://raw.github.com/ImMejor35/cracked/main/rayfieldnokey")()
+end)
+
+tab.newButton("Holf Hub", "Universal Hub",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Podroka626/Scripts/main/Universal"))()
+end)
+
+tab.newButton("Inf Money", "City Defense Tycoon",function()
 --[[
     WARNING: Heads up! This script has not been verified by ScriptBlox. Use at your own risk!
 ]]
@@ -247,10 +267,6 @@ tab.newButton("Parkour inf exp", "just give you some exp, also if you are lag ju
 loadstring(game:HttpGet("https://raw.githubusercontent.com/charlesqwc/ParkourLegacyOPPoints/main/Points"))()
 end)
 
-tab.newButton("uni hub", "Pop it trading script",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Nadiehp/Dupe-New/main/New"))()
-end)
-
 tab.newButton("gg hub", "pop it trading script and more",function()
 loadstring(game:HttpGet('https://pastebin.com/raw/dcyuEgyK'))()
 end)
@@ -272,7 +288,7 @@ tab.newButton("keyless hub", "just some keyless hub🙂",function()
 loadstring(game:HttpGet("https://cdn.discordapp.com/attachments/1267795579736559657/1287157247658561607/obfuscated.lua?ex=66f0861a&is=66ef349a&hm=21b9292ac8bae925321ba3b7775229076f70c0e01579ad6dde6a49b35112212a&"))()
 end)
 
-tab.newButton("anti kill bricks script", "just some anti kill bricks script toggle it Z ",function()
+tab.newButton("anti kill bricks script", "Allows you to become invicible while on kill brick toggle is Z",function()
 -- Z to Toggle
 local player = game:GetService("Players").LocalPlayer
 local UIS = game:GetService("UserInputService")
@@ -340,7 +356,7 @@ tab.newButton("dark moon hub", "Spanish version😢 credits to the owner",functi
 loadstring(game:HttpGet('https://raw.githubusercontent.com/Darkmoonxhubscript/Darkmoonx1/main/Script'))()
 end)
 
-tab.newButton("part unanchored", "bring the unanchored part to the players it like my script kawaii Magnet to player",function()
+tab.newButton("part unanchored", "bring the unanchored part to the players",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Bac0nHck/Scripts/main/BringFlingPlayers"))("More Scripts: t.me/arceusxscripts")
 end)
 
@@ -348,17 +364,13 @@ tab.newButton("Permanent Shiftlock", "for who dont have shiftlock in game",funct
 loadstring(game:HttpGet('https://pastebin.com/raw/CjNsnSDy'))()
 end)
 
-tab.newButton("infinix dex", "keyless version",function()
+tab.newButton("infinix dex", "key version",function()
 local __function = loadstring(game:HttpGet("https://github.com/Hosvile/DEX-Explorer/releases/latest/download/main.lua", true))
 
 __function(__function)
 end)
 
 local tab = DrRayLibrary.newTab("Hacks 4", "ImageIdHere")
-
-tab.newButton("RayField no key system", "READ THIS BEFORE TALK TO ME! so this is just only bypass Any RayField gui",function()
-loadstring("https://raw.github.com/ImMejor35/cracked/main/rayfieldnokey")()
-end)
 
 tab.newButton("adonis bypasser", "this one is for adonis",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Pixeluted/adoniscries/main/Source.lua",true))()
@@ -385,7 +397,7 @@ tab.newButton("best free blade ball", "no key system need",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/TouhouProjects/TouhouProject/main/NewEra.lua"))()
 end)
 
-tab.newButton("Scarlet script", "i stole this pls do not get mad at me",function()
+tab.newButton("Scarlet script", "i stole this",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/scarlet888/scarlet/main/e"))()
 end)
 
@@ -403,7 +415,7 @@ tab.newButton("Multi tools", "this is v1 i stole",function()
 loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-MultiTools-V1-14721"))()
 end)
 
-tab.newButton("Infinix Dex Keyless", "credits to the owner for this keyless dex",function()
+tab.newButton("Infinix Dex", "keyless version",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/DEX-Explorer/main/Mobile.lua"))()
 end)
 
@@ -414,11 +426,11 @@ end)
 tab.newButton("ocerium project", "hmmm idk the script but credits to the owner",function()
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/slf0Dev/Ocerium_Project/main/Library.lua"))()
 
-Window = Library.Main("Title text","LeftAlt")
+Window = Library.Main("Hacks Hub","LeftAlt")
 
-local Tab = Window.NewTab("tab title")
+local Tab = Window.NewTab("Hacks 1")
 
-local Section = Tab.NewSection("text")
+local Section = Tab.NewSection("Scripts")
 
 -- examples
 
@@ -488,7 +500,7 @@ tab.newButton("Tsb Script [1]", "this script is for garou also this give you kil
 loadstring(game:HttpGet("https://raw.githubusercontent.com/louismich4el/ItsLouisPlayz-Scripts/main/VOID%20V2%20TSB.lua"))()
 end)
 
-tab.newButton("Invisible Script", "with mobile keyboard toggle is T",function()
+tab.newButton("Invisible Script", "with mobile keyboard toggle is T you be visible if you ragdoll or jump",function()
 --// IMPORTANT: You'll be visible while ragdolled/jumping
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Sakupenny/Universal-R6-Invis/refs/heads/main/Main.lua"))()
@@ -524,4 +536,15 @@ getgenv().lastShotTime = 0  -- Variable to track the last time a shot was fired
 
 loadstring(game:HttpGet("https://pastebin.com/raw/g05mEMLH"))()
 end)
+end)
+
+local tab = DrRayLibrary.newTab("3008", "ImageIdHere")
+
+tab.newButton("3008 Op Script", "it has key or no?",function()
+--// Supported Games: https://gabescripts.com/supported.php
+--// Discord Server: https://gabescripts.com/discord.php
+--// Get Key: https://gabescripts.com/getkey.php
+
+getgenv().Key = "putkeyhere";
+loadstring(game:HttpGet("https://gabescripts.com/access.lua"))()
 end)
