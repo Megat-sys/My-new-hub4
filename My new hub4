@@ -7,6 +7,7 @@ game:GetService("StarterGui"):SetCore("SendNotification", {
                 Text = "This Script Will Update Faster✅",
                 Duration = 5
             })
+end)
 
 local tab = DrRayLibrary.newTab("Hacks 1", "ImageIdHere")
 
