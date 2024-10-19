@@ -4,7 +4,7 @@ local window = DrRayLibrary:Load("Hacks 🌠👑-Hub-👑🌠 Premium Version", 
 
 game:GetService("StarterGui"):SetCore("SendNotification", {
                 Title = "Thanks For Using Our Gui!",
-                Text = "This Script Will Update Faster.",
+                Text = "This Script Will Update Faster✅",
                 Duration = 5
             })
 end)
