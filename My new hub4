@@ -44,8 +44,7 @@ end)
 tab.newButton("magnet to player", "used unanchored part", function()
 pcall(function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/n0raxd/KAWAII-BLACK-HOLE/refs/heads/main/kawaii-black-hole.lua",true))()
-e
-nd)
+end)
 end)
 
 tab.newButton("Universal Hub Loader", "Universal Hub idk if it has key or not sorry bad grammar",function()
