@@ -1,6 +1,6 @@
 local DrRayLibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/AZYsGithub/DrRay-UI-Library/main/DrRay.lua"))()
 
-local window = DrRayLibrary:Load("Hacks 🌠👑-Hub-👑🌠 Premium Version", "Default")
+local window = DrRayLibrary:Load("Hacks", "Default")
 
 local tab = DrRayLibrary.newTab("Hacks 1", "ImageIdHere")
 
