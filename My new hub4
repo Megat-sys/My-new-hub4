@@ -1,11 +1,10 @@
 local DrRayLibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/AZYsGithub/DrRay-UI-Library/main/DrRay.lua"))()
-
 local window = DrRayLibrary:Load("Hacks 🌠👑-Hub-👑🌠 Premium Version", "Default")
 
 game:GetService("StarterGui"):SetCore("SendNotification", {
-    Title = "Thanks for using our gui!",
-    Text = "This Script Will Be Updating Faster",
-    Duration = 5
+    Title = "Thanks for using our gui",
+    Text = "Ui Will Be Updating Faster!",
+    Duration = 5.0
 })
 
 local tab = DrRayLibrary.newTab("Hacks 1", "ImageIdHere")
